@@ -1,0 +1,16 @@
+body{
+    background: #f5f5f5 url('bg_texture.png') !important;
+}
+#container {
+    width: 950px;
+    height: 605px;
+    margin: 0 auto;
+}
+
+path{
+    cursor: pointer;
+}
+
+path:hover{
+    fill: #4baebd;
+}
